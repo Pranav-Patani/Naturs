@@ -1,3 +1,3 @@
-## NATURS
+# NATURS
 
-# A website built with advanced CSS concepts.
+## A website built with advanced CSS concepts.
